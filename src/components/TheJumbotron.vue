@@ -6,7 +6,7 @@
           <div class="row">
             <div class="col-12">
               <p>{{ msg }}</p>
-              <b-button variant="primary" href="#">More Info</b-button>
+              <b-button variant="primary" href="./#/countries">Check this app</b-button>
             </div>
           </div>
         </b-jumbotron>
