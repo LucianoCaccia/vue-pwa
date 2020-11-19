@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "path": "/",
+      "name": "Home"
+    },
+    {
+      "path": "/about",
+      "name": "About"
+    },
+    {
+      "path": "/form",
+      "name": "Form Page"
+    },
+    {
+      "path": "/countries",
+      "name": "Countries"
+    }    
+  ]
+}
