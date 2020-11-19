@@ -1,8 +1,7 @@
-# Starting Server
+## Starting Server
 In a local env: npm run serve
 
-# CI / Publishing
-## Netlify
+## CI / Publishing on Netlify
 
 USR: luciano.caccia@tooit.com / github account
 
