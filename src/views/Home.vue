@@ -10,7 +10,7 @@
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
 import TheJumbotron from '@/components/TheJumbotron.vue'
-const message = 'Vamos con Vue en la Home!!'
+const message = 'New PWA: Discover massive country information'
 
 export default {
   name: 'Home',
