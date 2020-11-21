@@ -1,0 +1,12 @@
+module.exports = {
+  pwa: {
+    name: 'PWA',
+    short_name: 'Countries',
+    theme_color: "#fafafa",
+    background_color: "#ffffff",
+    workboxOptions: {
+      skipWaiting: true,
+      clientsClaim: true,
+    }
+  }
+}
