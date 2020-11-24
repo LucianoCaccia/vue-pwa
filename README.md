@@ -5,6 +5,8 @@ In a local env: npm run serve
 
 USR: luciano.caccia@tooit.com / github account
 
+Netlify: https://app.netlify.com/user/settings
+
 Build command: npm run build
 
 Publish directory: dist
