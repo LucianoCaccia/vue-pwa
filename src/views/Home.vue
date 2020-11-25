@@ -4,7 +4,7 @@
     <the-jumbotron v-bind:msg="msg"></the-jumbotron>
     <div class="container">
       <h4>Metro 95.1</h4>
-      <audio controls="controls">Metro<source src="http://mp3.metroaudio1.stream.avstreaming.net:7200/metro" type="audio/mpeg" /></audio>
+      <audio controls="controls">Metro<source src="http://mp3.metroaudio1.stream.avstreaming.net:7200/metro" type="audio/ogg" /><source src="http://mp3.metroaudio1.stream.avstreaming.net:7200/metro" type="audio/mpeg" /><source src="http://mp3.metroaudio1.stream.avstreaming.net:7200/metro" type="audio/wav" /></audio>
     </div>
     <div class="container mt-4 mb-5">
       <h4>Aspen 102.3</h4>
