@@ -34,6 +34,11 @@ const routes = [
     path: '/countries',
     name: 'Countries',
     component: () => import(/* webpackChunkName: "form", */'../views/Countries.vue')
+  },
+  {
+    path: '/radioplayer',
+    name: 'Radio Player',
+    component: () => import(/* webpackChunkName: "form", */'../views/RadioPlayer.vue')
   }
 ]
 const router = new VueRouter({
