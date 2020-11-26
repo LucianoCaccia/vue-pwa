@@ -2,8 +2,10 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import BootstrapVue from '../node_modules/bootstrap-vue/dist/bootstrap-vue.esm'
-import 'bootstrap/dist/css/bootstrap.css'
+import '../node_modules/bootstrap/scss/bootstrap.css'
+// import 'bootstrap/dist/css/bootstrap.css'
 // import 'bootstrap-vue/dist/bootstrap-vue.css'
+import './assets/styles/custom.css'
 import './registerServiceWorker'
 Vue.use(BootstrapVue)
 
