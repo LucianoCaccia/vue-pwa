@@ -15,6 +15,10 @@ Production branch: master
 
 Live URL: https://eager-williams-81b494.netlify.app
 
+
+#### Radio Metro Streaming
+      <audio controls="controls">Metro<source src="https://mp3.metroaudio1.stream.avstreaming.net:7200/metro" type="audio/ogg" /><source src="https://mp3.metroaudio1.stream.avstreaming.net:7200/metro" type="audio/mpeg" /><source src="https://mp3.metroaudio1.stream.avstreaming.net:7200/metro" type="audio/wav" /></audio>
+=======
 ## Testing Online Radios
 
 The audio don't working properly on IOS. This stop the player when minify or lock the screen at phone.

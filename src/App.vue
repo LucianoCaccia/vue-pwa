@@ -30,6 +30,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 70px;
+  font-size: 1.2rem;
 
 }
 </style>
